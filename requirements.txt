@@ -1,4 +1,4 @@
-##  📦 Requirements
+#  📦 Requirements
 
 Make sure you have Python 3 installed.
 
