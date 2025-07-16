@@ -5,4 +5,4 @@ Make sure you have Python 3 installed.
 Install the required Python packages with:
 
 ```bash
-pip install ultralytics opencv-python
+pip install ultralytics opencv-contrib-python
