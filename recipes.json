@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Chicken Fried Rice",
+        "ingredients": ["chicken", "rice", "egg"],
+        "instructions": "Cook chicken, scramble eggs, then mix with rice and seasonings."
+    },
+    {
+        "name": "Egg Cucumber Salad",
+        "ingredients": ["egg", "cucumber"],
+        "instructions": "Boil eggs, slice cucumber, and mix with dressing."
+    },
+    {
+        "name": "Cucumber Rice Bowl",
+        "ingredients": ["rice", "cucumber"],
+        "instructions": "Serve rice topped with sliced cucumber and light soy sauce."
+    },
+    {
+        "name": "Plain Rice",
+        "ingredients": ["rice"],
+        "instructions": "Boil rice until soft and fluffy."
+    }
+]
