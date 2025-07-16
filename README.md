@@ -19,3 +19,13 @@ This project uses a custom-trained YOLOv8 model to detect ingredients from a web
 * OpenCV (for webcam and image handling)
 * Python 3
 * JSON (for storing recipes)
+
+
+
+---
+
+## 📂 Dataset
+
+The dataset used to train the YOLO model was sourced from [Roboflow](https://roboflow.com) and created by https://universe.roboflow.com/uitm-ahefu, if known.
+
+Thank you to the dataset creators for providing this valuable resource.
