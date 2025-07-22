@@ -7,7 +7,7 @@ This project requires **Python 3.7 or higher**.
 Before running the code, install the necessary Python packages. The main dependencies are:
 
 - [`ultralytics`](https://pypi.org/project/ultralytics/) — YOLOv8 model inference  
-- [`opencv-python`](https://pypi.org/project/opencv-python/) — Webcam and image processing
+- [`opencv-contrib-python`](https://pypi.org/project/opencv-python/) — Webcam and image processing
 
 ### Installation
 
